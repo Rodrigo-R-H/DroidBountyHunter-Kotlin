@@ -27,7 +27,7 @@
     <string name="menu_capturar">Capturar</string>
     <string name="menu_tomar_foto">Tomar Foto</string>
     <string name="menu_mapa">Ver mapa</string>
-    <string name="google_maps_key">AIzaSyA9z4ghTUUdvTN8IR1NR6NVlFP_Pl_xeLs</string>
+    <string name="google_maps_key"></string>
 
 
 </resources>
